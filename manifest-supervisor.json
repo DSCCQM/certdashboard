@@ -1,0 +1,25 @@
+{
+  "name": "疾病照護認證儀表板（主管版）",
+  "short_name": "認證儀表板(主管)",
+  "description": "疾病照護品質認證時程追蹤與提醒－主管檢視版",
+  "start_url": "./supervisor.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7f6",
+  "theme_color": "#9c2f5e",
+  "icons": [
+    {
+      "src": "icon-supervisor-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-supervisor-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
